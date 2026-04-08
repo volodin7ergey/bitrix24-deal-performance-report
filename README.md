@@ -120,13 +120,11 @@
 
 <hr>
 
-<h2>🔹 Использованные технологии</h2>
+<h2>🔹 Технологии</h2>
 
 <ul>
-<li><b>Frontend:</b> Vue + Vuetify, JavaScript, Sass, Vite</li>
-<li><b>Интеграция:</b> Bitrix24 API</li>
-<li><b>Было выделено времени:</b> 5 дней</li>
-<li><b>Время разработки:</b> 4 дня разработка + 1 день тестирование</li>
+<li><b>Frontend:</b> Vue + Vuetify,  Vite, Typescript, Sass</li>
+<li><b>Интеграция:</b> Bitrix24 REST API</li>
 </ul>
 
 <h2>🔹 Контакты</h2>
