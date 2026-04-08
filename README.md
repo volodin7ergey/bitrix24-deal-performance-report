@@ -19,24 +19,24 @@
 <table>
 <tr>
 <td align="center">
-<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
+<img src="media/screen-1.jpg" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-3.png" width="100%" alt="Вывод данных"><br>
+<img src="media/screen-2.jpg" width="100%" alt="Вывод данных"><br>
 <em>Вывод данных</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="media/screen-4.png" width="100%" alt="Выбор типа отчёта"><br>
+<img src="media/screen-3.jpg" width="100%" alt="Выбор типа отчёта"><br>
 <em>Выбор типа отчета</em>
 </td>
 
 <td align="center">
-<img src="media/screen-5.png" width="100%" alt="Фильтрация по нужному отделу"><br>
+<img src="media/screen-4.jpg" width="100%" alt="Фильтрация по нужному отделу"><br>
 <em>Фильтрация по нужному отделу</em>
 </td>
 </tr>
@@ -45,12 +45,12 @@
 
 
 <td align="center">
-<img src="media/screen-6.png" width="100%" alt="Фильтрация по дате"><br>
+<img src="media/screen-5.jpg" width="100%" alt="Фильтрация по дате"><br>
 <em>Фильтрация по дате</em>
 </td>
 
 <td align="center">
-<img src="media/screen-7.png" width="100%" alt="Фильтрация по статусам сделок"><br>
+<img src="media/screen-6.jpg" width="100%" alt="Фильтрация по статусам сделок"><br>
 <em>Фильтрация по статусам сделок</em>
 </td>
 </tr>
